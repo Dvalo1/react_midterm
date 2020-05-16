@@ -1,0 +1,27 @@
+.react_midterm {
+  text-align: center;
+}
+
+.react_midterm_wrapper {
+  background-color: #141618;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+input, textarea {
+  padding: 15px;
+  margin: 10px;
+  border: 0;
+  width: 100%;
+  background-color: #0c0d0e;
+  color: white;
+  border-radius: 5px;
+}
+.login {
+  color: gold;
+}
